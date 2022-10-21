@@ -79,7 +79,7 @@
     "prettier": "^2.7.1"
   },
   "description": "Storybook design systems tutorial",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": "git@github.com:Ryujaekang/learnstorybook-design-system.git",
   "author": "Ryujaekang <jkryu@studiomate.kr>",
   "license": "MIT"
